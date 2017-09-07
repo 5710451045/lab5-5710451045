@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 8 elements to &apos;auction_v2&apos;&#x0D;&#x0A;- Original project: &apos;testapp&apos;&#x0D;&#x0A;- Destination element: &apos;auction_v2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     app.yaml&#x0D;&#x0A;     README.md&#x0D;&#x0A;     urls.go&#x0D;&#x0A;     hello.go&#x0D;&#x0A;     documents&#x0D;&#x0A;     templates&#x0D;&#x0A;     models&#x0D;&#x0A;     applications&#x0D;&#x0A;- Update references to refactored element" description="Move elements" element1="app.yaml" element2="README.md" element3="urls.go" element4="hello.go" element5="documents" element6="templates" element7="models" element8="applications" files="4" flags="589830" folders="4" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1498698064248" target="/auction_v2" units="0" version="1.0"/>
+</session>
